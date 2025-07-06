@@ -1,1 +1,2 @@
-Modification in main branch.git 
+# GitHubCloneProject
+This project is for practicing branching and resolving merge conflicts.
